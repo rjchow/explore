@@ -6,6 +6,7 @@ items:
  - nasa/openmct
  - codeforamerica/adopt-a-hydrant
  - 18F/ads-bpa
+ - open-attestation/open-attestation
  - project-open-data/project-open-data.github.io
  - opengovfoundation/madison
  - GSA/data.gov
